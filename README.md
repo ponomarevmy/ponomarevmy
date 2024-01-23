@@ -6,7 +6,8 @@
 
 Я QA Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Занимаюсь ручный и автоматизированным тестирования web - приложений.
 Всегда рад изучать новые технологии. Меня вдохновляет создание качественных продуктов и постоянное улучшение пользовательского опыта по средствам тестирования.
-![codewars](https://www.codewars.com/users/ponomarevmy/badges/micro)
+
+                                                                                                  ![codewars](https://www.codewars.com/users/ponomarevmy/badges/micro)
 
 ---
 
